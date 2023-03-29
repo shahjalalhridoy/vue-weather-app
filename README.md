@@ -11,7 +11,7 @@
 
 • Can remove cache data
 
-## Application Link: [Weather App](https://main--sweet-bublanina-88fbce.netlify.app/) 
+## Application Link: [Weather App](https://myapp-weather-x.netlify.app/) 
 
 ## Recommended IDE Setup
 
