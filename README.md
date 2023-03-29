@@ -1,6 +1,17 @@
-# vue-project
+# vue-weather-app
 
-This template should help get you started developing with Vue 3 in Vite.
+## Forecasts - Features
+
+
+• See the most important weather information in a smart layout that adjusts to the current conditions.
+
+• View daily forecasts for the next 7 days, including color-coded bars displaying the high and low temperatures.
+
+• Can store data in to cache 
+
+• Can remove cache data
+
+## Application Link: [Weather App](https://main--sweet-bublanina-88fbce.netlify.app/) 
 
 ## Recommended IDE Setup
 
