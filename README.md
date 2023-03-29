@@ -1,6 +1,7 @@
 # vue-weather-app
 
-Forecasts
+## Forecasts - Features
+
 
 • See the most important weather information in a smart layout that adjusts to the current conditions.
 
